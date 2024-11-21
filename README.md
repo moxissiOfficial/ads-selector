@@ -1,1 +1,1 @@
-"# ads-selector" 
+Ads separator
